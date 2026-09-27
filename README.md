@@ -28,7 +28,7 @@ Do not directly add untested code to the Main Repository.
 The Test Repository provides a separate place for:
 
 * Testing new code
-* Trying new idea
+* Trying new ideas
 * Debugging errors
 * Making experimental changes
 * Verifying that the code works
