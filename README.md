@@ -17,7 +17,7 @@ Any new code, feature, modification, or experiment should first be added and tes
 6. Once the code is confirmed to be working, move or copy the working code to the **Main Repository**.
 7. The Main Repository should contain the **tested and working version**.
 
-## Important Rule
+## Important Rule:
 
 **Test Repository → Test and Verify → Main Repository**
 
